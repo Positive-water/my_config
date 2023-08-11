@@ -5,4 +5,4 @@
 - Python_R
 - c++
 # vscode-vim
--vsvimrc
+- vsvimrc
