@@ -3,6 +3,6 @@
 # vscode
 - hanzq
 - Python_R
-- c++
+- cpp
 # vscode-vim
 - vsvimrc
