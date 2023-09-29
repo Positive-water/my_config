@@ -1,0 +1,330 @@
+{
+    "buckets": [
+        {
+            "Name": "extras",
+            "Source": "https://proxy.201704.xyz/https://github.com/ScoopInstaller/Extras",
+            "Updated": "2023-09-29T20:30:03+08:00",
+            "Manifests": 1889
+        },
+        {
+            "Name": "games",
+            "Source": "https://proxy.201704.xyz/https://github.com/Calinou/scoop-games",
+            "Updated": "2023-09-29T20:30:38+08:00",
+            "Manifests": 292
+        },
+        {
+            "Name": "kkzzhizhou_scoop-apps",
+            "Source": "https://scoop.201704.xyz/https://github.com/kkzzhizhou/scoop-apps",
+            "Updated": "2023-09-29T12:57:05+08:00",
+            "Manifests": 11891
+        },
+        {
+            "Name": "main",
+            "Source": "https://github.com/ScoopInstaller/Main",
+            "Updated": "2023-09-29T20:32:13+08:00",
+            "Manifests": 1249
+        },
+        {
+            "Name": "nonportable",
+            "Source": "https://proxy.201704.xyz/https://github.com/ScoopInstaller/Nonportable",
+            "Updated": "2023-09-29T20:47:31+08:00",
+            "Manifests": 127
+        }
+    ],
+    "apps": [
+        {
+            "Updated": "2023-09-26T21:14:23.9006882+08:00",
+            "Source": "extras",
+            "Version": "0.6",
+            "Name": "7tsp",
+            "Info": ""
+        },
+        {
+            "Updated": "2023-07-04T11:40:46.6863524+08:00",
+            "Source": "main",
+            "Version": "23.01",
+            "Name": "7zip",
+            "Info": ""
+        },
+        {
+            "Updated": "2023-09-26T21:49:32.0013306+08:00",
+            "Source": "kkzzhizhou_scoop-apps",
+            "Version": "7.33.0.7",
+            "Name": "BaiduNetdisk",
+            "Info": ""
+        },
+        {
+            "Updated": "2023-09-26T22:03:56.4854428+08:00",
+            "Source": "kkzzhizhou_scoop-apps",
+            "Version": "1.12.1",
+            "Name": "bilibili",
+            "Info": ""
+        },
+        {
+            "Updated": "2023-08-20T07:49:16.4165278+08:00",
+            "Source": "main",
+            "Version": "5181-g5c1a3b00e",
+            "Name": "busybox",
+            "Info": ""
+        },
+        {
+            "Updated": "2023-09-25T21:39:31.490003+08:00",
+            "Source": "extras",
+            "Version": "1.18.1",
+            "Name": "coretemp",
+            "Info": ""
+        },
+        {
+            "Updated": "2023-06-25T18:27:56.7651281+08:00",
+            "Source": "main",
+            "Version": "3.11.2",
+            "Name": "dark",
+            "Info": ""
+        },
+        {
+            "Updated": "2023-08-02T21:09:13.015268+08:00",
+            "Source": "extras",
+            "Version": "1.0.9010-15",
+            "Name": "discord",
+            "Info": ""
+        },
+        {
+            "Updated": "2023-09-10T19:12:37.919008+08:00",
+            "Source": "extras",
+            "Version": "10.1.1002.1B",
+            "Name": "dismplusplus",
+            "Info": ""
+        },
+        {
+            "Updated": "2023-06-26T07:26:03.8752564+08:00",
+            "Source": "extras",
+            "Version": "1.4.1.1024",
+            "Name": "everything",
+            "Info": ""
+        },
+        {
+            "Updated": "2023-09-09T09:09:50.6240369+08:00",
+            "Source": "main",
+            "Version": "6.0",
+            "Name": "ffmpeg",
+            "Info": ""
+        },
+        {
+            "Updated": "2023-09-07T17:35:35.6308563+08:00",
+            "Source": "extras",
+            "Version": "1.5.2.165",
+            "Name": "geekuninstaller",
+            "Info": ""
+        },
+        {
+            "Updated": "2023-09-07T16:30:36.2162492+08:00",
+            "Source": "main",
+            "Version": "2.42.0.2",
+            "Name": "git",
+            "Info": ""
+        },
+        {
+            "Updated": "2023-09-29T16:48:07.5877119+08:00",
+            "Source": "extras",
+            "Version": "117.0.5938.132",
+            "Name": "googlechrome",
+            "Info": ""
+        },
+        {
+            "Updated": "2023-06-26T07:44:33.7680501+08:00",
+            "Source": "main",
+            "Version": "0.50",
+            "Name": "innounp",
+            "Info": ""
+        },
+        {
+            "Updated": "2023-08-19T21:32:43.9820456+08:00",
+            "Source": "extras",
+            "Version": "0.40.2",
+            "Name": "lazygit",
+            "Info": ""
+        },
+        {
+            "Updated": "2023-07-25T16:52:28.8635442+08:00",
+            "Source": "nonportable",
+            "Version": "2021.1-rc1",
+            "Name": "mactype-np",
+            "Info": ""
+        },
+        {
+            "Updated": "2023-09-05T09:33:20.3900266+08:00",
+            "Source": "extras",
+            "Version": "23.3.1-1",
+            "Name": "mambaforge",
+            "Info": ""
+        },
+        {
+            "Updated": "2023-07-13T12:08:26.1406174+08:00",
+            "Source": "main",
+            "Version": "13.1.0-rt_v11-rev1",
+            "Name": "mingw",
+            "Info": ""
+        },
+        {
+            "Updated": "2023-09-07T16:32:54.2654652+08:00",
+            "Source": "main",
+            "Version": "7.1.0",
+            "Name": "neofetch",
+            "Info": ""
+        },
+        {
+            "Updated": "2023-09-25T21:49:57.7109944+08:00",
+            "Source": "main",
+            "Version": "0.9.2",
+            "Name": "neovim",
+            "Info": ""
+        },
+        {
+            "Updated": "2023-09-20T22:51:53.6060733+08:00",
+            "Source": "main",
+            "Version": "18.18.0",
+            "Name": "nodejs-lts",
+            "Info": ""
+        },
+        {
+            "Updated": "2023-09-27T20:00:10.9930481+08:00",
+            "Source": "extras",
+            "Version": "1.4.14",
+            "Name": "obsidian",
+            "Info": ""
+        },
+        {
+            "Updated": "2023-08-31T13:49:07.7189759+08:00",
+            "Source": "extras",
+            "Version": "230830",
+            "Name": "potplayer",
+            "Info": ""
+        },
+        {
+            "Updated": "2023-09-29T22:51:42.9400663+08:00",
+            "Source": "kkzzhizhou_scoop-apps",
+            "Version": "7.3.7",
+            "Name": "powershell",
+            "Info": ""
+        },
+        {
+            "Updated": "2023-09-27T20:01:20.7582881+08:00",
+            "Source": "extras",
+            "Version": "0.74.0",
+            "Name": "powertoys",
+            "Info": ""
+        },
+        {
+            "Updated": "2023-08-28T22:33:54.0870665+08:00",
+            "Source": "extras",
+            "Version": "2023.2.1-232.9559.58",
+            "Name": "pycharm-professional",
+            "Info": ""
+        },
+        {
+            "Updated": "2023-08-11T19:25:26.8691196+08:00",
+            "Source": "main",
+            "Version": "4.3.1",
+            "Name": "r",
+            "Info": ""
+        },
+        {
+            "Updated": "2023-09-27T20:02:21.8546989+08:00",
+            "Source": "extras",
+            "Version": "2023.09.0-463",
+            "Name": "rstudio",
+            "Info": ""
+        },
+        {
+            "Updated": "2023-09-26T15:47:45.0380784+08:00",
+            "Source": "extras",
+            "Version": "2.0",
+            "Name": "runcat",
+            "Info": ""
+        },
+        {
+            "Updated": "2023-08-29T16:36:22.5423249+08:00",
+            "Source": "main",
+            "Version": "1.16.0",
+            "Name": "starship",
+            "Info": ""
+        },
+        {
+            "Updated": "2023-09-11T14:28:06.5941981+08:00",
+            "Source": "main",
+            "Version": "0.2020.01.26",
+            "Name": "sudo",
+            "Info": ""
+        },
+        {
+            "Updated": "2023-09-26T21:53:24.9550759+08:00",
+            "Source": "kkzzhizhou_scoop-apps",
+            "Version": "3.4.8.22092",
+            "Name": "tim",
+            "Info": ""
+        },
+        {
+            "Updated": "2023-09-29T22:29:56.9884902+08:00",
+            "Source": "kkzzhizhou_scoop-apps",
+            "Version": "4.7.1.5",
+            "Name": "todesk",
+            "Info": ""
+        },
+        {
+            "Updated": "2023-09-10T19:29:51.1370094+08:00",
+            "Source": "extras",
+            "Version": "4.7",
+            "Name": "treesize-free",
+            "Info": ""
+        },
+        {
+            "Updated": "2023-09-26T21:48:50.6096383+08:00",
+            "Source": "kkzzhizhou_scoop-apps",
+            "Version": "4.0.1",
+            "Name": "utools",
+            "Info": ""
+        },
+        {
+            "Updated": "2023-08-28T22:35:09.3482578+08:00",
+            "Source": "extras",
+            "Version": "1.0.95",
+            "Name": "ventoy",
+            "Info": ""
+        },
+        {
+            "Updated": "2023-09-29T17:02:31.1747368+08:00",
+            "Source": "extras",
+            "Version": "1.82.2",
+            "Name": "vscode",
+            "Info": ""
+        },
+        {
+            "Updated": "2023-09-20T22:53:03.6304819+08:00",
+            "Source": "extras",
+            "Version": "3.9.7.25",
+            "Name": "wechat",
+            "Info": ""
+        },
+        {
+            "Updated": "2023-09-28T12:06:47.6830658+08:00",
+            "Source": "extras",
+            "Version": "1.18.2681.0",
+            "Name": "windows-terminal",
+            "Info": ""
+        },
+        {
+            "Updated": "2023-09-26T23:33:46.3367021+08:00",
+            "Source": "extras",
+            "Version": "23.05.1740",
+            "Name": "xmind",
+            "Info": ""
+        },
+        {
+            "Updated": "2023-09-21T12:34:42.316888+08:00",
+            "Source": "kkzzhizhou_scoop-apps",
+            "Version": "1.0.0",
+            "Name": "zlibrary",
+            "Info": ""
+        }
+    ]
+}
